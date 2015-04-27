@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/povrazor/juicebox/master/Docs/Logo.png" style="float:right">
 # JuiceBox
 Stub for an alternative LD2015 Vagrant configuration, using LEMP (Linux+EnginX+MariaDB+PHP) or other alternative LAMP tools (HHVM?). Juicy.
 
